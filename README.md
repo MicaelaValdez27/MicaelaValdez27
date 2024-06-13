@@ -6,7 +6,7 @@ js
      tools = [VisualStudioCode, Git_Bash, Git];
      studies = UTN;
      nacionality = Argentinian;
-     from = [Argentina, AMBA];
+     from = [Portugal, Braga];
  }
 
 
